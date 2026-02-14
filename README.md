@@ -52,9 +52,11 @@ while True:
 ```
 
 ## OUPUT - ARP
-**server**
+## server
 <img width="636" height="183" alt="arpserver" src="https://github.com/user-attachments/assets/21bb5258-745d-41b7-a5f6-3149fe674907" />
-**client**
+
+---
+## client
 <img width="640" height="207" alt="arpclient" src="https://github.com/user-attachments/assets/96341e29-0817-4f15-9137-f3ac1227f3e0" />
 
 ## PROGRAM - RARP
@@ -93,9 +95,12 @@ while True:
 ```
 
 ## OUPUT -RARP
-**server**
+## server
 <img width="633" height="200" alt="rarpserver" src="https://github.com/user-attachments/assets/bf86309d-ad47-49df-8685-18554a167cef" />
-**client**
+
+---
+
+## client
 <img width="638" height="232" alt="rarpclient" src="https://github.com/user-attachments/assets/8e210f9f-3fd8-4238-8f48-97fb912e4f22" />
 
 ## RESULT
